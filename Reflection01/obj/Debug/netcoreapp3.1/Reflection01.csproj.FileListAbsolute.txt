@@ -1,0 +1,17 @@
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.exe
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.deps.json
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.runtimeconfig.json
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.runtimeconfig.dev.json
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.dll
+C:\Users\Amir\source\repos\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.pdb
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01_MarkupCompile.cache
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01_MarkupCompile.lref
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.g.resources
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.AssemblyInfo.cs
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.dll
+C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.pdb

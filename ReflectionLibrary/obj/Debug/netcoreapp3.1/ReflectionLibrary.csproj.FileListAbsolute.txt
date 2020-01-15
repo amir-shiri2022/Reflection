@@ -1,0 +1,8 @@
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.deps.json
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.dll
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.pdb
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfo.cs
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.dll
+C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.pdb
