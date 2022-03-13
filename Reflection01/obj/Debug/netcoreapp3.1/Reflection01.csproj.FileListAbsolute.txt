@@ -15,3 +15,23 @@ C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Refle
 C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.AssemblyInfo.cs
 C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.dll
 C:\Users\Amir\source\repos\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.pdb
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.exe
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.deps.json
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.runtimeconfig.json
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.runtimeconfig.dev.json
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.dll
+D:\Repos\My Projects\Reflection\Reflection01\bin\Debug\netcoreapp3.1\Reflection01.pdb
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.csproj.AssemblyReference.cache
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01_MarkupCompile.cache
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01_MarkupCompile.lref
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.g.resources
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.AssemblyInfoInputs.cache
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.AssemblyInfo.cs
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.csproj.CoreCompileInputs.cache
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.dll
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.pdb
+D:\Repos\My Projects\Reflection\Reflection01\obj\Debug\netcoreapp3.1\Reflection01.genruntimeconfig.cache

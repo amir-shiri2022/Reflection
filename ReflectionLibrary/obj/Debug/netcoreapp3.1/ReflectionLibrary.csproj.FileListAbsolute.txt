@@ -6,3 +6,13 @@ C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\
 C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfo.cs
 C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.dll
 C:\Users\Amir\source\repos\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.pdb
+D:\Repos\My Projects\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.deps.json
+D:\Repos\My Projects\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.dll
+D:\Repos\My Projects\Reflection\ReflectionLibrary\bin\Debug\netcoreapp3.1\ReflectionLibrary.pdb
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.csproj.AssemblyReference.cache
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfoInputs.cache
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.AssemblyInfo.cs
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.csproj.CoreCompileInputs.cache
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.dll
+D:\Repos\My Projects\Reflection\ReflectionLibrary\obj\Debug\netcoreapp3.1\ReflectionLibrary.pdb
